@@ -1,4 +1,4 @@
-Website for a piano store called "Pianissimo.
+Website for a piano store called "Pianissimo".
 
 Used Laravel framework. For the database aspect of the project I used XAMP/MySql server.
 
